@@ -2,7 +2,7 @@
 
 ![PCBCUPID-GLYPH-C6](https://files.pcbcupid.com/Documentation/Boards/glyph_c6/PCBCUPID_esp32c6-overview_result.avif)
 
-This repo contains open source PCB files for PCBCUPID Glyph C3
+This repo contains open source PCB files for PCBCUPID Glyph C6
 This particular PCB is designed using Kicad v8.0
 
 **This design has been built and tested successfully!**
